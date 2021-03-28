@@ -107,7 +107,7 @@ void setup() {
 }
 
 void loop() {
-    dimmer.setState(ON); //name.setState(ON/OFF);
+    dimmer.setState(ON); //name.setState(ON/OFF);  
     dimmer.setState(OFF); //name.setState(ON/OFF);
 }
 
